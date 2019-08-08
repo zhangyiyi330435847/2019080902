@@ -1,0 +1,24 @@
+{
+  "name": "0809",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyiyi330435847/2019080902.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangyiyi330435847/2019080902/issues"
+  },
+  "homepage": "https://github.com/zhangyiyi330435847/2019080902#readme",
+  "description": ""
+}
